@@ -1,0 +1,16 @@
+{
+  "name": "Fire & Rescue",
+  "short_name": "Fire & Rescue",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#830000",
+  "description": "Fire & Rescue",
+  "theme_color": "#830000",
+  "icons": [
+    {
+      "src": "/imgs/pdflogof3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
